@@ -14,8 +14,8 @@
 
 ---
 
-[Отчет.docx](https://github.com/Rostezkiy/AutoCounter/files/12894778/default.docx)
-[main.zip](https://github.com/Rostezkiy/AutoCounter/files/12894782/main.zip)
+- [Отчет.docx](https://github.com/Rostezkiy/AutoCounter/files/12894778/default.docx)
+- [main.zip](https://github.com/Rostezkiy/AutoCounter/files/12894782/main.zip)
 
 
 ---
